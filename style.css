@@ -1,0 +1,44 @@
+*{
+    background-color: darkgray;
+}
+.class1 p{
+    color: blue;
+}
+p{
+    color: red;
+}
+.class1 h1{
+    color:blueviolet;
+}
+
+
+
+.class1 p{
+    background-image:url(images/part-blurry-image.webp);
+     height:1000px;
+    width:2000px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+.class1 {
+    background: #fff url("images/car.jpeg") no-repeat fixed center top
+        
+}
+h1{
+    border-style: solid none none none;
+    border-width:15px;
+    border-color: brown;
+    border-radius: 5px;
+}
+h2{
+    border-style: solid;
+    border-width: 5px;
+    border-color: currentColor;
+    border-radius: 5px;
+}
+.class2 #psec{
+    background-color: cornsilk;
+}
+
